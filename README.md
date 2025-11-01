@@ -21,4 +21,6 @@ It is useful for learning **structures, arrays, strings, loops, and switch-case 
 | 4 | Show total number of books in the library |
 | 5 | Exit from the program |
 
+**Output**
+
 
